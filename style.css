@@ -1,0 +1,27 @@
+body{
+    background: rgb(203, 114, 182);
+    background: linear-gradient(176deg, rgb(233, 163, 219) 0%, rgb(178, 80, 149) 74%);
+    background-repeat: none;
+    height: 120vh;
+    color: rgb(255, 255, 255);
+}
+
+.logo-kitty{
+    width: 40px;
+    height: auto;
+}
+
+.game-block-row{
+    padding-top: 6em;
+}
+
+.game-block{
+    max-width: 600px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.439);
+    border: 1px solid rgba(242, 43, 246, 0.4);
+}
+
+p, label{
+    font-size: 1.2em;
+}
